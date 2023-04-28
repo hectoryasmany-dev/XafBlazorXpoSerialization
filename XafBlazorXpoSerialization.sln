@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XafBlazorXpoSerialization.Module", "XafBlazorXpoSerialization.Module\XafBlazorXpoSerialization.Module.csproj", "{43B58D5E-39AF-44F3-BA9F-B102B0D7658A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XafBlazorXpoSerialization.Blazor.Server", "XafBlazorXpoSerialization.Blazor.Server\XafBlazorXpoSerialization.Blazor.Server.csproj", "{E45B8DC8-80BD-4CD1-B81E-71ED383146AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B58D5E-39AF-44F3-BA9F-B102B0D7658A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B58D5E-39AF-44F3-BA9F-B102B0D7658A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B58D5E-39AF-44F3-BA9F-B102B0D7658A}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{43B58D5E-39AF-44F3-BA9F-B102B0D7658A}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{43B58D5E-39AF-44F3-BA9F-B102B0D7658A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B58D5E-39AF-44F3-BA9F-B102B0D7658A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45B8DC8-80BD-4CD1-B81E-71ED383146AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45B8DC8-80BD-4CD1-B81E-71ED383146AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45B8DC8-80BD-4CD1-B81E-71ED383146AF}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{E45B8DC8-80BD-4CD1-B81E-71ED383146AF}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{E45B8DC8-80BD-4CD1-B81E-71ED383146AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45B8DC8-80BD-4CD1-B81E-71ED383146AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
